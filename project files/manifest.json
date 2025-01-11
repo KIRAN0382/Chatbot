@@ -1,0 +1,21 @@
+{
+  "name": "Customer Support Bot",
+  "short_name": "SupportBot",
+  "description": "A chatbot to handle customer queries and admin operations.",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "C:\Users\pc-1\Desktop\chatbot_app\static\icons\icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "C:\Users\pc-1\Desktop\chatbot_app\static\icons\icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
